@@ -1,6 +1,10 @@
 Create a Landing Page using the attached mockup file.
 ===============================
 
+![preview](https://github.com/tomorrowdevs-projects/hotel-booking-landing-page/blob/main/preview.png "preview")
+
+## Download here the [Figma Mockup](https://github.com/tomorrowdevs-projects/hotel-booking-landing-page/blob/main/Hotel_Booking_Freebie.fig)
+
 Requirements:
 ----------------
 - Create the Landing Page for Desktop view
